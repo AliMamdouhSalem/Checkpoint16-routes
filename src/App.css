@@ -2,6 +2,21 @@
   text-align: center;
 }
 
+.links{
+  color:rgba(255,255,255,.55) !important;
+  text-decoration: none !important;
+}
+.links:hover{
+  color: white !important ;
+}
+.fonty{
+  color: black;
+}
+
+.movieCardLink{
+  color:black !important;
+  text-decoration: none !important;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
